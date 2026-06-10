@@ -7,6 +7,13 @@ Main screen > input detailed compsite information
 >comments
 Detailed screen > View detailed campsite information in a scrollable list
 
+project structure 
+app/
+>SplashScreen.kt
+ >MainActivity.kt
+> DetailView.kt
+> ui/theme/
+
 
 
 <img width="1600" height="720" alt="eac9c7db-c006-4417-a4a1-65888a55b0e1" src="https://github.com/user-attachments/assets/7594da19-d46e-426c-b169-da44a93a4cf8" />
