@@ -1,5 +1,5 @@
 # Campsitecommander2
-The app was build using the language of kotlin in Android studio.i used arrays,loops and screen nevigation where it will allow users to add,view and organise groccery items. The app needs to store camping gear and food suppliers, which alllows a user to categorize them in such shelter, cooking and first aid and providedetailed checklist view. The app alllows getting user input,parallel arrays, scrreen navigation and loops to maage the packing list.
+The app was build using the language of kotlin in Android studio.i used arrays,loops and screen nevigation where it will allow users to add,view and organise groccery items. The app needs to store camping gear and food suppliers, which allows a user to categorize them in such as shelter, cooking and first aid and provide detailed checklist view. The app alllows getting user input,parallel arrays, screen navigation and loops to maage the packing list.
 
 Main screen > input detailed compsite information
 >category
