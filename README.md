@@ -20,6 +20,18 @@ Setup for the app
 < Run on emulator or device 
 
 
+
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/87e1da04-7dc1-4e3d-b0a0-5c5987276078" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/eabe5630-2caa-48b0-9b6e-4c757c08dbbe" />
+
+
+
+
+
+
+
 <img width="1600" height="720" alt="eac9c7db-c006-4417-a4a1-65888a55b0e1" src="https://github.com/user-attachments/assets/7594da19-d46e-426c-b169-da44a93a4cf8" />
 I failed to upload pictures of the app running on the emelator because blue stack was not responding. at first the app was giving me errors to update and i did update and not lucky blue stack stopped working as my emulator
 
