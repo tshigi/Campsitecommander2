@@ -22,7 +22,7 @@ Setup for the app
 
 
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/87e1da04-7dc1-4e3d-b0a0-5c5987276078" />
+The errros i got before updating my android studio
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/eabe5630-2caa-48b0-9b6e-4c757c08dbbe" />
 
