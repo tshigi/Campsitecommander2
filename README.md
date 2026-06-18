@@ -1,11 +1,13 @@
 # Campsitecommander2
-The app was build using the language of kotlin in Android studio.i used arrays,loops and screen nevigation where it will allow users to add,view and organise groccery items. The app needs to store camping gear and food suppliers, which allows a user to categorize them in such as shelter, cooking and first aid and provide detailed checklist view. The app alllows getting user input,parallel arrays, screen navigation and loops to maage the packing list.
+The app was build using the language of kotlin in Android studio. I used array, loops and parallelarray. It allows user to add, view and organize groccery for camping. The app stores camsite data and lets user categorize items such as shelter, cooking, and first aid
 
-Main screen > input detailed compsite information
+Main screen
+input detailed compsite information
 >category
 >quantity
 >comments
-Detailed screen > View detailed campsite information in a scrollable list
+Detailed screen
+View detailed campsite information in a scrollable list
 
 project structure 
 app/
@@ -25,6 +27,8 @@ Setup for the app
 The errros i got before updating my android studio
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/eabe5630-2caa-48b0-9b6e-4c757c08dbbe" />
+
+Bluestack failed to run as my emulator after updating my android studio, I am not sure how my app looks like physically 
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/fc46865b-ef78-49be-839b-83d78df0ee7b" />
 
