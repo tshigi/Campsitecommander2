@@ -13,7 +13,7 @@
         android:theme="@style/Theme.Campsitecommander">
         <activity
             android:name=".MainActivity"
-            android:exported="false"
+            android:exported="true"
             android:label="@string/title_activity_main"
             android:theme="@style/Theme.Campsitecommander">
             <intent-filter>
@@ -24,14 +24,16 @@
         </activity>
         <activity
             android:name=".DetailedView"
-            android:exported="false"
+            android:exported="true"
             android:label="@string/title_activity_detailed_view"
             android:theme="@style/Theme.Campsitecommander" />
+
         <activity
-            android:name=".SplashScreen"
+            android:name=".AddGear"
             android:exported="false"
-            android:label="@string/title_activity_splash_screen"
-            android:theme="@style/Theme.Campsitecommander" />
+            android:label="@string/title_activity_add_gear"
+            android:theme="@style/Theme.Campsitecommander"
+            android:windowSoftInputMode="adjustResize" />
     </application>
 
 </manifest>
