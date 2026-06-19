@@ -51,6 +51,6 @@ With the help of AI which took me hours i managed to get bluestack running and s
 
 
 <img width="1600" height="720" alt="eac9c7db-c006-4417-a4a1-65888a55b0e1" src="https://github.com/user-attachments/assets/7594da19-d46e-426c-b169-da44a93a4cf8" />
-I failed to upload pictures of the app running on the emelator because blue stack was not responding. at first the app was giving me errors to update and i did update and not lucky blue stack stopped working as my emulator
+Until  i managed to make Bluestack work it was like this
 
 
